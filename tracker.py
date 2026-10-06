@@ -11,7 +11,7 @@ print("MAIN MENU")
 print("\t[1] Add an expense\t\t(coming soon)")
 print("\t[2] View all expenses\t(coming soon)")
 print("\t[3] Show total spent\t(coming soon)")
-print("\t[4] Exit\t\t\t(coming soon)")
+print("\t[4] Exit\t\git\t(coming soon)")
 print()
 
 name = input("What's your name? ")
